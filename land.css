@@ -1,6 +1,6 @@
 body{
     background-color: #f2efe3;
-    padding:70px;
+    padding:50px;
 }
 .mem{
     background-color: #f2efe3;
@@ -18,8 +18,9 @@ body{
 .mains{
     display:flex;
     justify-content: space-between;
+    padding-bottom: 50px;
 }
 .edittext2{
-    font-size: 50px;
+    font-size: 70px;
     font-style: italic;
 }
