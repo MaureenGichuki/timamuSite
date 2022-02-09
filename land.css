@@ -1,6 +1,6 @@
 body{
     background-color: #f2efe3;
-    padding:50px;
+    margin:50px;
 }
 .mem{
     background-color: #f2efe3;
@@ -64,7 +64,7 @@ body{
     display: flex;
 }
 .prof1{
-    padding-left: 150px;
+    padding-left: 200px;
     padding-top: 150px;
     text-align: center;
 }
@@ -76,4 +76,26 @@ body{
     padding-left: 150px;
     padding-top: 150px;
     text-align: center;
+}
+.cont1{
+    display:flex;
+}
+.bye{
+    justify-content: center;
+    margin-left: 200px;
+    margin-top: 70px;
+}
+.edittext6{
+    font-style: italic;
+    font-size: 50px;
+}
+.cont2{
+    display: flex;
+}
+.cont ul{
+    display: flex;
+}
+.cont2 li{
+    list-style: none;
+    padding:30px;
 }
