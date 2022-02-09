@@ -44,4 +44,10 @@ body{
 .help1{
     padding-right: 150px;
     padding-top: 150px;
+    text-align: center;
+}
+.now1{
+    width: 100px;
+    height: 40px;
+    background-color: #f2efe3;
 }
