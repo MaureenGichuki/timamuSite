@@ -35,5 +35,13 @@ body{
     font-size: 40px;
 }
 .miss1{
-   padding-top: 150px;
+   padding-top: 100px;
+}
+.help{
+    display: flex;
+    justify-content: space-between;
+}
+.help1{
+    padding-right: 150px;
+    padding-top: 150px;
 }
